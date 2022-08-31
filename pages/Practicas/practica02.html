@@ -1,0 +1,32 @@
+<html>
+    <head>
+        <Title>Dibujo</Title>
+    </head>
+    <body>
+        <canvas id="myCanvas" width="512" height="512" style="border:1px solid #000000">
+                This browser does not support canvas
+        </canvas>
+        <script>
+            var c = document.getElementById("myCanvas");
+            var ctx = c.getContext("2d");
+            ctx.beginPath();
+            ctx.arc(256,256,192,0,2*Math.PI);
+            ctx.stroke();
+            ctx.beginPath();
+            ctx.arc(256,256,128,0,Math.PI);
+            ctx.stroke();
+            ctx.beginPath();
+            ctx.arc(192,192,32,0,2*Math.PI);
+            ctx.stroke();
+            ctx.beginPath();
+            ctx.arc(320,192,32,0,2*Math.PI);
+            ctx.stroke();
+            ctx.beginPath();
+            ctx.moveTo(256,256);
+            ctx.lineTo(240,280);
+            ctx.lineTo(270,280);
+            ctx.lineTo(256,256);
+            ctx.stroke();
+        </script>
+    </body>
+</html>
