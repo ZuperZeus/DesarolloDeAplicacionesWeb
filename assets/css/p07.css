@@ -1,0 +1,18 @@
+.box{
+    width: 90%;
+    margin: 2em auto;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.image{
+    border: 5px solid lightcoral;
+    outline: 5px solid lightcoral;
+    outline-offset: -45px;
+}
+.text{
+    position: absolute;
+    color: orange;
+    font-size: 3em;
+}
