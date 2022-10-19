@@ -1,6 +1,6 @@
 div.sticky {
     position: sticky;
-    top: 10;
+    top: 0;
     background-color: cyan;
     padding: 50px;
     font-size: 20px;
