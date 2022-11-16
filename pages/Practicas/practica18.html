@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>user and password</title>
+</head>
+<body>
+    <script>
+        localStorage.setItem("usr","cheko")
+        localStorage.setItem("pswd","cheko123")
+        function verif()
+        {
+            if(document.getElementById('user').value==localStorage.usr&&document.getElementById('psswd').value==localStorage.pswd)
+            {
+                alert("CORRECTO!")
+            }
+            else
+            {
+                alert("INCORRECTO!")
+            }
+
+        }
+    </script>
+    <label for="user">USER:</label>
+    <input type="text" id="user" name="user"><br>
+    <label for="lname">PSWD:</label>
+    <input type="text" id="psswd" name="psswd"><br><br>
+    <button onclick="verif()">Submit</button>
+
+</body>
+</html>
