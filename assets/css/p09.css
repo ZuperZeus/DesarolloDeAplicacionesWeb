@@ -1,0 +1,43 @@
+p{
+    font-size: 2em;
+}
+.container{
+    width: 800px;
+    height:800px;
+    position: relative;
+    border: 5px solid gold;
+}
+.box1,.box2,.box3,.box4,.box5,.box6{
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    font-size: 2em;
+    margin: 5px;
+}
+.box1{
+    border: 6px dashed red;
+}
+.box2{
+    border: 6px dashed darkblue;
+    top: 40%;
+    left:80%;
+    position: absolute;
+}
+.box3{
+    border: 6px dashed lightsalmon;
+    top: 80%;
+    left:0%;
+    position: absolute;
+}
+.box4{
+    border: 6px dashed cyan;
+    top: 70%;
+    left:85%;
+    position: absolute;
+}
+.box5{
+    border: 6px dashed #00ff00;
+    top: 50%;
+    left:50%;
+    position: absolute;
+}

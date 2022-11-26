@@ -1,0 +1,32 @@
+.title{
+    text-align: center;
+    font-size: 3em;
+}
+p{
+    font-size: 2em;
+
+}
+.p1{
+    display: none;
+}
+.p2{
+    visibility: hidden;
+}
+.b1{
+    width: 300px;
+    height: 300px;
+    text-align: center;
+    font-size: 2.5em;
+    background-color: darkblue;
+    position: relative;
+    top: 100px;
+    right: -100px;
+    left: 100px;
+}
+.b2{
+    width: 300px;
+    height: 300px;
+    text-align: center;
+    font-size: 2.5em;
+    background-color: red;
+}

@@ -1,0 +1,16 @@
+.menu{
+    background: lightgreen;
+    padding: .5em;
+    text-align: center;
+    font-size: 2em;
+    position: fixed;
+    width: 100%;
+}
+body{
+    margin: 0;
+
+}
+.contenido{
+    position: absolute;
+    margin-top: 100px;
+}

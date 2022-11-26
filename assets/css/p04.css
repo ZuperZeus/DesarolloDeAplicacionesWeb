@@ -1,0 +1,30 @@
+p{
+    color: darkgreen;
+}
+h1{
+    color:blue;
+}
+.titulo{
+    color:red;
+}
+.texto{
+    color: darkgray;
+}
+#titulo{
+    color:aquamarine;
+}
+#texto{
+    color: pink;
+}
+*{
+    color: gold;
+}
+[href]{
+    color: #809874
+}
+[class="titulo"]{
+    color: #80ff11;
+}
+h3 .titulo{
+    color:darkgoldenrod;
+}
