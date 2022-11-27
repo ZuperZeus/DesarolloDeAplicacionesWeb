@@ -24,14 +24,14 @@
      inkscape:deskcolor="#505050"
      showgrid="false"
      inkscape:zoom="2.36"
-     inkscape:cx="50"
+     inkscape:cx="50.423729"
      inkscape:cy="50"
      inkscape:window-width="1920"
      inkscape:window-height="1007"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg5" />
+     inkscape:current-layer="text898" />
   <defs
      id="defs2" />
   <g
@@ -45,16 +45,13 @@
        cy="13.229167"
        r="13.179167" />
   </g>
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:60.285px;font-family:'Latin Modern Mono';-inkscape-font-specification:'Latin Modern Mono';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.338668"
-     x="9.8091574"
-     y="45.188732"
+  <g
+     aria-label="i"
+     transform="scale(1.0206074,0.97980869)"
      id="text898"
-     transform="scale(1.0206074,0.97980869)"><tspan
-       sodipodi:role="line"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Mono';-inkscape-font-specification:'Latin Modern Mono';fill:#ffffff;stroke:none;stroke-width:0.338668"
-       x="9.8091574"
-       y="45.188732"
-       id="tspan900">i</tspan></text>
+     style="font-size:60.285px;font-family:'Latin Modern Mono';-inkscape-font-specification:'Latin Modern Mono';fill:#ffffff;stroke-width:0.338668">
+    <path
+       d="m 37.238832,43.380182 c 0,-1.868835 -1.56741,-1.868835 -2.471685,-1.868835 H 28.437222 V 21.677582 c 0,-1.868835 -0.36171,-2.471685 -2.4114,-2.471685 h -8.56047 c -0.904275,0 -2.471685,0 -2.471685,1.80855 0,1.868835 1.56741,1.868835 2.471685,1.868835 h 6.812205 v 18.628065 h -7.294485 c -0.96456,0 -2.471685,0 -2.471685,1.868835 0,1.80855 1.56741,1.80855 2.471685,1.80855 h 17.784075 c 0.904275,0 2.471685,0 2.471685,-1.80855 z m -8.56047,-31.649625 c 0,-1.68798 -1.32627,-3.0142498 -3.01425,-3.0142498 -1.68798,0 -3.01425,1.3262698 -3.01425,3.0142498 0,1.68798 1.32627,3.01425 3.01425,3.01425 1.68798,0 3.01425,-1.32627 3.01425,-3.01425 z"
+       id="path290" />
+  </g>
 </svg>
