@@ -18,9 +18,32 @@
                 </div>
                 <div class="col-sm-10"><div class="text-center"><h1 lang="en">Where is Fictional Enterprise?</h1></div></div>
             </div>
+
             <div id="mapdiv"></div>
+            <script src="http://www.openlayers.org/api/OpenLayers.js"></script>
+            <script>
+              map = new OpenLayers.Map("mapdiv");
+              map.addLayer(new OpenLayers.Layer.OSM());
+          
+                var lonLat = new OpenLayers.LonLat(-73.97922,40.76614  )
+                    .transform(
+                      new OpenLayers.Projection("EPSG:4326"), // transform from WGS 1984
+                      map.getProjectionObject() // to Spherical Mercator Projection
+                    );
+                    
+              var zoom=16;
+          
+              var markers = new OpenLayers.Layer.Markers( "Markers" );
+              map.addLayer(markers);
+              
+              markers.addMarker(new OpenLayers.Marker(lonLat));
+              
+              map.setCenter (lonLat, zoom);
+            </script>
+            <!--<div id="mapdiv"></div>
             <script src="js/api1.js"></script>
             <link rel="stylesheet" href="css/api1.css">
+    -->
             <div class="row"><a href="API.html"><p lang="en">Return to Main Page</p></div>
         </div>
     </body>
