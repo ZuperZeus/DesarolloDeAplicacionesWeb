@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="200"
+   height="200"
+   viewBox="0 0 52.916666 52.916666"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="employeesFE.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview11"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="2.36"
+     inkscape:cx="50"
+     inkscape:cy="50"
+     inkscape:window-width="1920"
+     inkscape:window-height="1007"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <g
+     id="layer1"
+     style="fill:#d90000;fill-opacity:1;stroke:none;stroke-width:0.5"
+     transform="matrix(1.999999,0,0,1.999999,-0.05000014,-0.05000014)">
+    <circle
+       style="fill:#d90000;fill-opacity:1;stroke:none;stroke-width:0.05"
+       id="path254"
+       cx="13.229167"
+       cy="13.229167"
+       r="13.179167" />
+  </g>
+  <g
+     id="g395"
+     transform="matrix(1.999999,0,0,1.999999,-0.12347232,-0.05000014)"
+     style="fill:#cccccc;stroke-width:0.5">
+    <g
+       id="g380"
+       transform="translate(0,-0.15779977)"
+       style="fill:#cccccc;stroke-width:0.5">
+      <circle
+         style="fill:#cccccc;stroke:none;stroke-width:0.05"
+         id="circle332-5"
+         cx="18.274187"
+         cy="6.0460982"
+         r="2.7761838" />
+      <g
+         id="g336-3"
+         style="fill:#cccccc;stroke:none;stroke-width:0.714785"
+         transform="matrix(0.69951087,0,0,0.69951087,9.0202331,1.128016)">
+        <path
+           id="path334-5"
+           style="fill:#cccccc;stroke-width:0.0714785"
+           d="M 13.22892,12.894826 A 11.152927,20.214814 0 0 0 3.7731669,22.398121 13.179167,13.179167 0 0 0 13.22892,26.408213 13.179167,13.179167 0 0 0 22.685191,22.398121 11.152927,20.214814 0 0 0 13.22892,12.894826 Z" />
+      </g>
+    </g>
+    <g
+       id="g385"
+       style="fill:#cccccc;stroke-width:0.5">
+      <circle
+         style="fill:#cccccc;stroke:none;stroke-width:0.05"
+         id="circle332"
+         cx="8.257617"
+         cy="5.8882985"
+         r="2.7761838" />
+      <g
+         id="g336"
+         style="fill:#cccccc;stroke:none;stroke-width:0.714785"
+         transform="matrix(0.69951087,0,0,0.69951087,-0.99633684,0.97021619)">
+        <path
+           id="path334"
+           style="fill:#cccccc;stroke-width:0.0714785"
+           d="M 13.22892,12.894826 A 11.152927,20.214814 0 0 0 3.7731669,22.398121 13.179167,13.179167 0 0 0 13.22892,26.408213 13.179167,13.179167 0 0 0 22.685191,22.398121 11.152927,20.214814 0 0 0 13.22892,12.894826 Z" />
+      </g>
+    </g>
+  </g>
+  <g
+     id="layer1-3"
+     transform="matrix(1,0,0,1.7694424,9.045e-5,-9.9214794)"
+     style="fill:#ffffff;stroke:none;stroke-width:0.751764" />
+  <g
+     id="g419"
+     style="fill:#ffffff;stroke-width:0.5"
+     transform="matrix(1.999999,0,0,1.999999,-0.05000014,-0.05000014)">
+    <circle
+       style="fill:#ffffff;stroke:none;stroke-width:0.05"
+       id="path287"
+       cx="13.229166"
+       cy="7.0808649"
+       r="3.96875" />
+    <g
+       id="layer1-36"
+       style="fill:#ffffff;stroke:none;stroke-width:0.5"
+       transform="translate(-1.245e-5,0.05012)">
+      <path
+         id="path254-7"
+         style="fill:#ffffff;stroke-width:0.05"
+         d="M 13.22892,12.894826 A 11.152927,20.214814 0 0 0 3.7731669,22.398121 13.179167,13.179167 0 0 0 13.22892,26.408213 13.179167,13.179167 0 0 0 22.685191,22.398121 11.152927,20.214814 0 0 0 13.22892,12.894826 Z" />
+    </g>
+  </g>
+  <g
+     id="layer1-3-5"
+     transform="matrix(1,0,0,1.7694424,-26.98613,-8.1298632)"
+     style="fill:#ffffff;stroke:none;stroke-width:0.751764" />
+</svg>
