@@ -7,8 +7,31 @@
    viewBox="0 0 26.458333 26.458333"
    version="1.1"
    id="svg5"
+   sodipodi:docname="contact.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview11"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="2.36"
+     inkscape:cx="50"
+     inkscape:cy="50"
+     inkscape:window-width="1920"
+     inkscape:window-height="1007"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
   <defs
      id="defs2" />
   <g
@@ -22,7 +45,7 @@
        r="13.179167" />
   </g>
   <circle
-     style="fill:#ffffff;stroke:none;stroke-width:0.1"
+     style="fill:#000000;stroke:none;stroke-width:0.1"
      id="path287"
      cx="13.229166"
      cy="7.0808649"
@@ -33,11 +56,11 @@
      style="fill:#ffffff;stroke:none;stroke-width:0.751764" />
   <g
      id="layer1-36"
-     style="fill:#ffffff;stroke:none"
+     style="fill:#000000;stroke:none"
      transform="translate(-1.245e-5,0.05012)">
     <path
        id="path254-7"
-       style="fill:#ffffff;stroke-width:0.1"
+       style="fill:#000000;stroke-width:0.1"
        d="M 13.22892,12.894826 A 11.152927,20.214814 0 0 0 3.7731669,22.398121 13.179167,13.179167 0 0 0 13.22892,26.408213 13.179167,13.179167 0 0 0 22.685191,22.398121 11.152927,20.214814 0 0 0 13.22892,12.894826 Z" />
   </g>
   <g
